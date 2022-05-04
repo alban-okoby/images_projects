@@ -1,3 +1,3 @@
 # images_projects
 
-Une sorte de banque d'images de projets généralement terminés sinon en cours de conception.
+Une sorte de banque d'images de projets généralement terminés ou en cours de conception.
